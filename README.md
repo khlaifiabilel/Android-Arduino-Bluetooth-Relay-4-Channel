@@ -68,3 +68,22 @@ OpenJDK Runtime Environment (build 1.8.0_191-8u191-b12-2ubuntu0.18.04.1-b12)
 OpenJDK 64-Bit Server VM (build 25.191-b12, mixed mode)
 
 ```
+***Installing Android Studio***
+
+At the time of writing this article, the latest stable version of Android Studio is version 3.3.1.0. The easiest way is to install Android Studio on Ubuntu 18.04 is by using the snappy packaging system.
+
+To download and install the Android Studio snap package, open your terminal using the Ctrl+Alt+T keyboard shortcut and type:
+
+```javascript
+// run
+
+sudo snap install android-studio --classic
+
+```
+Once the installation is complete, you will see the following output:
+
+```javascript
+// The output
+
+android-studio 3.3.1.0 from Snapcrafters installed
+```
