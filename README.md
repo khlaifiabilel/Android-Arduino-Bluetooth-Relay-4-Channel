@@ -91,14 +91,23 @@ That’s it. Android Studio has been installed on your Ubuntu desktop.
 
 ![Arduino cover](https://scontent.ftun1-1.fna.fbcdn.net/v/t1.0-9/13645146_1429686307057684_8500685619593774449_n.png?_nc_cat=106&_nc_sid=dd9801&_nc_ohc=2S3wf_2HAFMAX84Stun&_nc_ht=scontent.ftun1-1.fna&oh=c67fbb17886d7f4eb1a21e474266c822&oe=5EBF053D)
 
-## FAQ
+***Arduino IDE***
+
+The Arduino Integrated Development Environment is a cross-platform application that is written in functions from C and C++. It is used to write and upload programs to Arduino compatible boards, but also, with the help of 3rd party cores, other vendor development boards.
+
+***Which language is used in Arduino IDE?***
+
+The "Arduino language" is simply C++ (and therefore also C). All the standard system librarys are written in C/C++ and the IDE uses the gcc g++ compiler.
+
+
+# FAQ
 
 - **How do I do *specifically* so and so?**
     - No problem! Just do this.
 
 ---
 
-## Support
+# Support
 
 Reach out to me at one of the following places!
 
@@ -107,7 +116,7 @@ Reach out to me at one of the following places!
 
 ---
 
-## Donations (Optional)
+# Donations (Optional)
 
 - You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
 
@@ -115,7 +124,7 @@ Reach out to me at one of the following places!
 
 ---
 
-## License
+# License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
