@@ -33,8 +33,6 @@ We’ll install OpenJDK 8. The installation is pretty simple, start by updating 
 Android Studio requires OpenJDK version 8 or above to be installed to your system.
 We’ll install OpenJDK 8. The installation is pretty simple, start by updating the package index:
 
-## Example (Optional)
-
 ```javascript
 // Run
 
@@ -87,3 +85,4 @@ Once the installation is complete, you will see the following output:
 
 android-studio 3.3.1.0 from Snapcrafters installed
 ```
+That’s it. Android Studio has been installed on your Ubuntu desktop.
