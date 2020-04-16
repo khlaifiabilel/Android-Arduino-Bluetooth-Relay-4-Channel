@@ -11,7 +11,7 @@
 
 # How to Install Android Studio on Ubuntu 18.04
 
-[![INSERT YOUR GRAPHIC HERE](https://www.mindinventory.com/blog/wp-content/uploads/2020/03/Android-studio-36-1520x500.png)]()
+![Android Studio](https://www.mindinventory.com/blog/wp-content/uploads/2020/03/Android-studio-36-1520x500.png)
 
 Android Studio is a full-featured cross-platform IDE that helps you build applications on every type of Android device. It is based on JetBrains’ IntelliJ IDEA and includes everything you need for Android development.
 
@@ -86,3 +86,8 @@ Once the installation is complete, you will see the following output:
 android-studio 3.3.1.0 from Snapcrafters installed
 ```
 That’s it. Android Studio has been installed on your Ubuntu desktop.
+
+# Arduino project
+
+![Arduino cover](https://scontent.ftun1-1.fna.fbcdn.net/v/t1.0-9/13645146_1429686307057684_8500685619593774449_n.png?_nc_cat=106&_nc_sid=dd9801&_nc_ohc=2S3wf_2HAFMAX84Stun&_nc_ht=scontent.ftun1-1.fna&oh=c67fbb17886d7f4eb1a21e474266c822&oe=5EBF053D)
+
