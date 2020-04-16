@@ -91,3 +91,33 @@ That’s it. Android Studio has been installed on your Ubuntu desktop.
 
 ![Arduino cover](https://scontent.ftun1-1.fna.fbcdn.net/v/t1.0-9/13645146_1429686307057684_8500685619593774449_n.png?_nc_cat=106&_nc_sid=dd9801&_nc_ohc=2S3wf_2HAFMAX84Stun&_nc_ht=scontent.ftun1-1.fna&oh=c67fbb17886d7f4eb1a21e474266c822&oe=5EBF053D)
 
+## FAQ
+
+- **How do I do *specifically* so and so?**
+    - No problem! Just do this.
+
+---
+
+## Support
+
+Reach out to me at one of the following places!
+
+- Linkedin at <a href="https://www.linkedin.com/in/kalifiabillal/" target="_blank">`Kalifiabillal`</a>
+- Twitter at <a href="https://twitter.com/kalifiabillal" target="_blank">`@Kalifiabillal`</a>
+
+---
+
+## Donations (Optional)
+
+- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
+
+[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/)
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2015 © <a href="https://github.com/KalifiaBillal" target="_blank">Kalifiabillal</a>.
