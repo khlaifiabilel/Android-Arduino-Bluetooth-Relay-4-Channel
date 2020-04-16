@@ -9,5 +9,62 @@
 
 > Arduino project
 
-***How to Install Android Studio on Ubuntu 18.04***
+# How to Install Android Studio on Ubuntu 18.04
 
+[![INSERT YOUR GRAPHIC HERE](https://www.mindinventory.com/blog/wp-content/uploads/2020/03/Android-studio-36-1520x500.png)]()
+
+Android Studio is a full-featured cross-platform IDE that helps you build applications on every type of Android device. It is based on JetBrains’ IntelliJ IDEA and includes everything you need for Android development.
+
+Android Studio build system is powered by Gradle allowing you to create multiple build variants for different devices from a single project.
+
+This tutorial explains how to install Android Studio on Ubuntu 18.04. The same instructions apply for Ubuntu 16.04 and any Ubuntu-based distribution, including Kubuntu, Linux Mint, and Elementary OS.
+
+***Prerequisites***
+
+You’ll need to be logged in as a user with sudo access to be able to install packages on your Ubuntu system.
+
+***Installing Java OpenJDK***
+
+Android Studio requires OpenJDK version 8 or above to be installed to your system.
+We’ll install OpenJDK 8. The installation is pretty simple, start by updating the package index:
+
+***Installing Java OpenJDK***
+
+Android Studio requires OpenJDK version 8 or above to be installed to your system.
+We’ll install OpenJDK 8. The installation is pretty simple, start by updating the package index:
+
+## Example (Optional)
+
+```javascript
+// Run
+
+sudo apt update
+
+```
+Install the OpenJDK 8 package by typing:
+
+```javascript
+// Run
+
+sudo apt install openjdk-8-jdk
+
+```
+Verify the installation by typing the following command which will print the Java version:
+
+```javascript
+// Run
+
+java -version
+
+```
+
+The output should look something like this:
+
+```javascript
+// The output
+
+openjdk version "1.8.0_191"
+OpenJDK Runtime Environment (build 1.8.0_191-8u191-b12-2ubuntu0.18.04.1-b12)
+OpenJDK 64-Bit Server VM (build 25.191-b12, mixed mode)
+
+```
