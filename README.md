@@ -113,12 +113,6 @@ Reach out to me at one of the following places!
 - Linkedin at <a href="https://www.linkedin.com/in/kalifiabillal/" target="_blank">`Kalifiabillal`</a>
 - Twitter at <a href="https://twitter.com/kalifiabillal" target="_blank">`@Kalifiabillal`</a>
 
-# Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/)
-
 # License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
