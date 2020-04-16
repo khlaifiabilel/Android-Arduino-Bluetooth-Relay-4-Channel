@@ -99,6 +99,8 @@ The Arduino Integrated Development Environment is a cross-platform application t
 
 The "Arduino language" is simply C++ (and therefore also C). All the standard system librarys are written in C/C++ and the IDE uses the gcc g++ compiler.
 
+![Arduino](https://i.pinimg.com/564x/c6/b4/72/c6b4725ca5fcde572245ced9ade303be.jpg)
+
 # FAQ
 
 - **How do I do *specifically* so and so?**
